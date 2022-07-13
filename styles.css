@@ -1,0 +1,19 @@
+.bre{
+    background-color:rgba(135, 171, 222, 0.788);
+    width="700px"
+}
+#breeds{
+    background-color:rgb(92, 92, 92);
+}
+#swan{
+    background-color:beige;
+    width: 800px;
+}
+.reproduction{
+    background-color: rgba(128, 128, 128, 0.613);
+}
+.col{
+    width="500" ;
+    color:"white" ;
+    padding="20px"
+}
